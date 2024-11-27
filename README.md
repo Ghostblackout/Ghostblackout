@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghostblackout
-- 👀 I’m interested in linux
+- 👀 I’m interested in computers, ham radio and aerospace
 - 💞️ I’m looking to collaborate on linux stuff
 
 <!---
